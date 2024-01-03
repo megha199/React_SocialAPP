@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Make a video"
+    },
+    {
+      "id": 2,
+      "title": "Second Post",
+      "datetime": "August 15, 2021 09:30:00 AM",
+      "body": "Write an article"
+    },
+    {
+      "id": 3,
+      "title": "Another Post",
+      "datetime": "September 30, 2021 03:45:20 PM",
+      "body": "Create a podcast"
+    },
+    {
+      "id": 4,
+      "title": "Hi new data Megha",
+      "datetime": "January 02, 2024 8:20:02 PM",
+      "body": "Newly added post"
+    },
+    {
+      "id": 5,
+      "title": "Happy New Year",
+      "datetime": "January 02, 2024 4:24:42 PM",
+      "body": "wishing you a very happy new year 2023"
+    },
+    {
+      "id": 6,
+      "title": "Congrats !! completed React",
+      "datetime": "January 03, 2024 12:02:22 PM",
+      "body": "Happy Learning react guys....."
+    }
+  ]
+}
